@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cirillistefano
-- 👀 I’m interested in programming Java, Basic, Blender 3d, MSOffice, Translation(English-Italian) ..
+- 👀 I’m interested in programming Java, FreeBasic, Blender 3d, MSOffice ..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stefanocirilli@tim.it
